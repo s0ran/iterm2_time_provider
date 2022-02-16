@@ -1,0 +1,5 @@
+#!/Users/s0ran/.config/iterm2/AppSupport/iterm2env-72/versions/3.8.6/bin/python3.8
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
